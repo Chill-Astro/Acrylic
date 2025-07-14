@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Chill-Astro/Acrylic/blob/main/Mica-Alt/Assets/StoreLogo.scale-400.png" width="100px" height="100px" alt="Logo">
+  <img src="https://github.com/Chill-Astro/Acrylic/blob/main/Acrylic/Assets/StoreLogo.scale-400.png" width="100px" height="100px" alt="Logo">
 </p>
 <h1 align="center">Acrylic by Chill-Astro</h1>
 
