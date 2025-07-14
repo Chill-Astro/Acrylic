@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Acrylic (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Acrylic (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
