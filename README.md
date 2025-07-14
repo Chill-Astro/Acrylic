@@ -12,7 +12,7 @@ Currently available for **Windows 11** and **Windows 10**.
 ## Key Features :
 
 - Acrylic Blur ✅
-- Settings Page for Chnaging Theme. ✅
+- Settings Page for Changing Theme. ✅
 - Theme Switching Baked in ✅
 
 ---
